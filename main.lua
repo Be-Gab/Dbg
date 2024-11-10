@@ -53,7 +53,7 @@ local function create(zone, options)
 	-- Runs one time when the widget instance is registered
 	-- Store zone and options in the widget table for later use
 
-	loadDbg(widget)
+	loadDbg()
 	
 	local widget = {
 		zone = zone,

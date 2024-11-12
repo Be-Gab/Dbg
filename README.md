@@ -1,6 +1,6 @@
 # Dbg
 
-Debug your LUA sript on tx screen in a widget in Companion.  
+Debug your __EdgeTx__ LUA sript on tx screen in a widget in Companion.  
 You can send formatted messages to the "log" window.  
 __Works only on TX16S radio transmitter!__
 
